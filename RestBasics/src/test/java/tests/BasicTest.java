@@ -34,7 +34,7 @@ public class BasicTest {
         addPlace.setAddress("29, side layout, cohen 09");
         addPlace.setTypes(List.of(new String[]{"shoe park", "shop"}));
         addPlace.setWebsite("http://google.com");
-        addPlace.setLanguage("French-IN");
+        addPlace.setLanguage("Hindi-IN");
         return addPlace;
     }
 

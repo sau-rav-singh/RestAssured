@@ -3,11 +3,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>JiraAPI</artifactId>
+    <artifactId>JiraAPIExcel</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
-
-    <name>JiraAPI</name>
+    <name>JiraAPIExcel</name>
     <url>http://maven.apache.org</url>
 
     <properties>

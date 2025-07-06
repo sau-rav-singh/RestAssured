@@ -1,0 +1,18 @@
+[
+    {
+        "fixingTime": "0500",
+        "BID": 1.24,
+        "ASK": 2.34,
+        "BaseCurrency": "INR",
+        "ContraCurrency": "USD",
+        "Tenor": "1y"
+    },
+    {
+        "fixingTime": "0600",
+        "BID": 1.6,
+        "ASK": 2.50,
+        "BaseCurrency": "GBP",
+        "ContraCurrency": "USD",
+        "Tenor": "2y"
+    }
+]

@@ -1,0 +1,23 @@
+{
+    "status": "ok",
+    "applicateData": "20230129",
+    "region": "tok",
+    "FXRates": [
+        {
+            "bid": "10",
+            "ask": "0",
+            "asset": "fx",
+            "currency": "AED",
+            "tenor": "ON",
+            "tenorDate": "20240203"
+        },
+        {
+            "bid": "0.6",
+            "ask": "0.3",
+            "asset": "fx",
+            "currency": "USD",
+            "tenor": "TN",
+            "tenorDate": "20240203"
+        }
+    ]
+}

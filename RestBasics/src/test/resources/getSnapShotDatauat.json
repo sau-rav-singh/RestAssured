@@ -1,0 +1,39 @@
+{
+    "ApplicationDate": "20231129",
+    "SnapshotRates": [
+        {
+            "AssetClassCode": "TT",
+            "midrate": 9,
+            "ratefields": [
+                {
+                    "fieldcode": "bid",
+                    "fieldvalue": 2.4
+                },
+                {
+                    "fieldcode": "ask",
+                    "fieldvalue": 2.5
+                }
+            ],
+            "RICCode": "fbhdbfhd",
+            "RicID": 45698
+        },
+        {
+            "AssetClassCode": "QQ",
+            "midrate": 20,
+            "ratefields": [
+                {
+                    "fieldcode": "bid",
+                    "fieldvalue": 2.37
+                },
+                {
+                    "fieldcode": "ask",
+                    "fieldvalue": 2.58
+                }
+            ],
+            "RICCode": "fbhdrgfbgbfhd",
+            "RicID": 45699
+        }
+    ],
+    "Status": "ok",
+    "StatusMessage": null
+}

@@ -1,0 +1,65 @@
+{
+  "dashboard": {
+    "purchaseAmount": 910,
+    "website": "rahulshettyacademy.com"
+  },
+  "courses": [
+    {
+      "title": "Selenium Python",
+      "price": 50,
+      "copies": 6,
+      "sales": {
+        "udemy": 20,
+        "website": 5
+      },
+      "reviews": [
+        {
+          "channel": "udemy",
+          "reviewcount": 20
+        },
+        {
+          "channel": "website",
+          "reviewcount": 5
+        }
+      ]
+    },
+    {
+      "title": "Cypress",
+      "price": 40,
+      "copies": 4,
+      "sales": {
+        "udemy": 20,
+        "website": 5
+      },
+      "reviews": [
+        {
+          "channel": "udemy",
+          "reviewcount": 20
+        },
+        {
+          "channel": "website",
+          "reviewcount": 5
+        }
+      ]
+    },
+    {
+      "title": "RPA",
+      "price": 45,
+      "copies": 10,
+      "sales": {
+        "udemy": 20,
+        "website": 5
+      },
+      "reviews": [
+        {
+          "channel": "udemy",
+          "reviewcount": 20
+        },
+        {
+          "channel": "website",
+          "reviewcount": 5
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-Feature: Read Data from Excel
+Feature: Read Write Data in Excel
 
   Scenario Outline: Place an order
     Given A Workbook named "secTypes" and sheetname as"equity" and Row number as <RowNumber> is read and to write Data

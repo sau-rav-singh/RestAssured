@@ -5,6 +5,7 @@ pipeline {
         stage('Build') {
             steps {
                 sh 'cd RestBasics'
+                sh 'pwd'
                 sh 'mvn clean install'
             }
         }
